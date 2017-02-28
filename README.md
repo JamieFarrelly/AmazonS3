@@ -1,6 +1,6 @@
 # Amazon S3 Outage - Services Affected
 
-List of just some of the services affected by AWS's S3 outage on 28th Feb 2017. Feel free to submit pull requests, I literally couldn't keep up with all the sites that were having issues but made a start.
+List of just some of the services affected by AWS's S3 outage on 28th Feb 2017. Feel free to submit pull requests, I literally couldn't keep up with all the sites that were having issues but made a start. A week or so on from [CloudBleed] (https://en.wikipedia.org/wiki/Cloudbleed) and now this, it's kind of interesting to see how many sites depend on AWS.
 
 To check the status of AWS itself click [here] (https://status.aws.amazon.com)
 
